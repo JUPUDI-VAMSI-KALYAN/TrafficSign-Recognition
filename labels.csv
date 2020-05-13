@@ -1,0 +1,33 @@
+ClassId,Name
+0,Speed limit (20km/h)
+1,Speed limit (30km/h)
+2,Speed limit (50km/h)
+3,Speed limit (60km/h)
+4,Speed limit (70km/h)
+5,Speed limit (80km/h)
+6,End of speed limit (80km/h)
+7,Speed limit (100km/h)
+8,Speed limit (120km/h)
+9,Yield
+10,Stop
+11,General caution
+12,Dangerous curve to the left
+13,Dangerous curve to the right
+14,Double curve
+15,Bumpy road
+16,Slippery road
+17,Road narrows on the right
+18,Road work
+19,Pedestrians
+20,Children crossing
+21,Bicycles crossing
+22,End of all speed and passing limits
+23,Turn right ahead
+24,Turn left ahead
+25,Ahead only
+26,Go straight or right
+27,Go straight or left
+28,Keep right
+29,Keep left
+30,No Entry
+31,No Entry for heavy vehicles
